@@ -75,7 +75,6 @@ public class EvacuationRoutePlanner {
                     }
                 }
             }
-
             dotWriter.write("}\n");
         } catch (IOException e) {
             e.printStackTrace();
