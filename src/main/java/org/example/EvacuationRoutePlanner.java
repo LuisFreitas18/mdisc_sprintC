@@ -10,6 +10,7 @@ public class EvacuationRoutePlanner {
     static final String outputPng = "src/main/java/org/example/dataset/output.png";
 
     public static void main(String[] args) {
+
         /*
         if (args.length != 3) {
             System.out.println("Usage: java EvacuationRoutePlanner <dataset/input.csv> <dataset/output.csv> <dataset/output.dot>");
