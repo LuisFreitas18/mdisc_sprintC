@@ -81,5 +81,6 @@ public class EvacuationRoutePlanner {
         }
 
         GraphvizRunner.graphGenerator(outputDot, outputPng);
+
     }
 }
